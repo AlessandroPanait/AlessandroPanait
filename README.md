@@ -15,7 +15,7 @@
 
 ## 📚 About Me
 
-- 🎓 I'm currently studying at **ITIS ROSSI**
+- 🎓 Currently Studying..
 - 🎯 I am passionate about technology, innovation, and problem-solving
 - 💡 I believe in continuous improvement, curiosity, and practical learning
 - 🤝 I enjoy working on projects that challenge me to grow both personally and professionally
