@@ -7,6 +7,8 @@
 ## 🚀 Tech Stack
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="50"/>
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=data:image/png;base64,INSERISCI_IL_TUO_BASE64_QUI&logoColor=white)
+
 
 
 
