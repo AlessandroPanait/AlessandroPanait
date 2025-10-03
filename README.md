@@ -6,8 +6,11 @@
 
 ## 🚀 Tech Stack
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="50"/>
-<img src="https://www.esat.kuleuven.be/efab/wp-content/uploads/2021/07/Arduino.png" alt="Arduino Logo" width="50"/>
+<p style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="50" />
+  <img src="https://www.esat.kuleuven.be/efab/wp-content/uploads/2021/07/Arduino.png" alt="Arduino Logo" width="50" />
+</p>
+
 
 
 
